@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
+import mondo0 from './assets/mondo0.png';
+import mondo1 from './assets/mondo1.png';
 import './styles/App.css';
 import './styles/magnetic.scss';
 
@@ -114,7 +115,7 @@ render(){
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={mondo1} className="App-logo" alt="logo" />
 
       </header>
       <div>
