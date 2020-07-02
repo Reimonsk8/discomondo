@@ -2,7 +2,7 @@ import React from 'react';
 import mondo0 from './assets/mondo0.png';
 import mondo1 from './assets/mondo1.png';
 import './styles/App.css';
-import './styles/magnetic.scss';
+import './styles/magnetic.css';
 
 class App extends React.Component{
   constructor(props){
