@@ -58,6 +58,14 @@ main:hover button {
 main:hover button:hover {
     color: #fff;
 }
+
+.corner-left {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    padding: 10px;
+    display: flex;
+}
 .support {
     position: absolute;
     right: 10px;
